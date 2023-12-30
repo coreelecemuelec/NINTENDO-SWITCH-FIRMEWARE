@@ -1,0 +1,13 @@
+{
+    "autoUpdate": true,
+    "deletePrompt": true,
+    "gAuthKey": "AIzaSyBMqv4dXnTJOGQtZZS3CBjvf748QvxSzF0",
+    "gayMode": false,
+    "ignoreReqVers": true,
+    "languageSetting": 99,
+    "lastNetUrl": "https://",
+    "overClock": false,
+    "sigPatchesUrl": "https://github.com/Huntereb/Awoo-Installer/releases/download/SignaturePatches/patches.zip",
+    "usbAck": false,
+    "validateNCAs": true
+}
